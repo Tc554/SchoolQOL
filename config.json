@@ -1,0 +1,10 @@
+{
+  "sleeping": {
+    "enabled": false,
+    "until": {
+      "day": "",
+      "hour": "",
+      "minute": ""
+    }
+  }
+}
